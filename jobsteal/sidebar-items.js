@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["make_pool","Create a pool with `n` worker threads."]],"struct":[["Spawner","A job spawner associated with a specific scope. Jobs spawned using this may spawn new jobs with the same lifetime."],["WorkPool","The work pool manages worker threads in a work-stealing fork-join thread pool."]]});
